@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 625" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect x="0" y="0" width="960" height="625" fill="#ffffff"/>
+<rect x="220" y="12" width="520" height="86" rx="6" fill="#f5f5f5" stroke="#999" stroke-width="1.5"/>
+<text x="480" y="40" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="1" fill="#1a1a1a">ПРЕОДОЛЕНИЕ КРИТИКИ</text>
+<text x="480" y="62" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" font-style="italic" fill="#555">Начальник говорит: «В последнее время вы отлыниваете от работы и</text>
+<text x="480" y="78" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12" font-style="italic" fill="#555">делаете всё кое-как»</text>
+<line x1="480" y1="98" x2="480" y2="116" stroke="#999" stroke-width="1.5"/>
+<line x1="152" y1="116" x2="808" y2="116" stroke="#999" stroke-width="1.5"/>
+<line x1="152" y1="116" x2="152" y2="135" stroke="#999" stroke-width="1.5"/>
+<polygon points="147,135 157,135 152,142" fill="#999"/>
+<line x1="480" y1="116" x2="480" y2="135" stroke="#999" stroke-width="1.5"/>
+<polygon points="475,135 485,135 480,142" fill="#999"/>
+<line x1="808" y1="116" x2="808" y2="135" stroke="#999" stroke-width="1.5"/>
+<polygon points="803,135 813,135 808,142" fill="#999"/>
+<text x="152" y="158" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-style="italic" fill="#888">Реакция</text>
+<text x="152" y="175" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#c0404e">«Я ни на что не гожусь»</text>
+<text x="480" y="158" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-style="italic" fill="#888">Реакция</text>
+<text x="480" y="175" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#c07020">«Ты ни на что не годишься»</text>
+<text x="808" y="158" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-style="italic" fill="#888">Реакция</text>
+<text x="808" y="175" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#208050">с чувством собств. достоинства</text>
+<line x1="152" y1="186" x2="152" y2="203" stroke="#999" stroke-width="1.5"/>
+<polygon points="147,203 157,203 152,210" fill="#999"/>
+<line x1="480" y1="186" x2="480" y2="203" stroke="#999" stroke-width="1.5"/>
+<polygon points="475,203 485,203 480,210" fill="#999"/>
+<line x1="808" y1="186" x2="808" y2="203" stroke="#999" stroke-width="1.5"/>
+<polygon points="803,203 813,203 808,210" fill="#999"/>
+<rect x="0" y="214" width="304" height="81" rx="5" fill="#fff0f2" stroke="#c0404e" stroke-width="1.5"/>
+<text x="152" y="236" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#444">МЫСЛИ</text>
+<text x="152" y="254" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">«Я всегда отлыниваю от работы, я</text>
+<text x="152" y="271" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">никчёмный»</text>
+<rect x="328" y="214" width="304" height="81" rx="5" fill="#fff5ec" stroke="#c07020" stroke-width="1.5"/>
+<text x="480" y="236" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#444">МЫСЛИ</text>
+<text x="480" y="254" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">«Этот чёртов мерзавец опять ко мне</text>
+<text x="480" y="271" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">прицепился!»</text>
+<rect x="656" y="214" width="304" height="81" rx="5" fill="#f0fff5" stroke="#208050" stroke-width="1.5"/>
+<text x="808" y="236" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1" fill="#444">МЫСЛИ</text>
+<text x="808" y="254" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">«Сейчас у меня есть возможность чему-то</text>
+<text x="808" y="271" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="12.5" font-style="italic" fill="#222">научиться»</text>
+<line x1="152" y1="295" x2="152" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="76" y1="309" x2="228" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="76" y1="309" x2="76" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="71,328 81,328 76,335" fill="#999"/>
+<line x1="228" y1="309" x2="228" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="223,328 233,328 228,335" fill="#999"/>
+<line x1="480" y1="295" x2="480" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="404" y1="309" x2="556" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="404" y1="309" x2="404" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="399,328 409,328 404,335" fill="#999"/>
+<line x1="556" y1="309" x2="556" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="551,328 561,328 556,335" fill="#999"/>
+<line x1="808" y1="295" x2="808" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="732" y1="309" x2="884" y2="309" stroke="#999" stroke-width="1.5"/>
+<line x1="732" y1="309" x2="732" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="727,328 737,328 732,335" fill="#999"/>
+<line x1="884" y1="309" x2="884" y2="328" stroke="#999" stroke-width="1.5"/>
+<polygon points="879,328 889,328 884,335" fill="#999"/>
+<rect x="0" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="74" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ЧУВСТВА</text>
+<text x="74" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Грусть, тревога</text>
+<rect x="157" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="230" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ПОВЕДЕНИЕ</text>
+<text x="230" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Замкнутость, уныние,</text>
+<text x="230" y="383" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">бессилие</text>
+<rect x="328" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="402" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ЧУВСТВА</text>
+<text x="402" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Гнев, смятение</text>
+<rect x="485" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="558" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ПОВЕДЕНИЕ</text>
+<text x="558" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Разражается руганью</text>
+<text x="558" y="383" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">и обвинениями</text>
+<rect x="656" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="730" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ЧУВСТВА</text>
+<text x="730" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Безопасность,</text>
+<text x="730" y="383" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">уверенность в себе</text>
+<rect x="813" y="335" width="147" height="69" rx="5" fill="#fafafa" stroke="#ccc" stroke-width="1"/>
+<text x="886" y="351" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="0.7" fill="#555">ПОВЕДЕНИЕ</text>
+<text x="886" y="367" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">«Что именно я делаю</text>
+<text x="886" y="383" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">не так?»</text>
+<line x1="76" y1="404" x2="76" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="228" y1="404" x2="228" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="76" y1="420" x2="228" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="152" y1="420" x2="152" y2="433" stroke="#999" stroke-width="1.5"/>
+<polygon points="147,433 157,433 152,440" fill="#999"/>
+<line x1="404" y1="404" x2="404" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="556" y1="404" x2="556" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="404" y1="420" x2="556" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="480" y1="420" x2="480" y2="433" stroke="#999" stroke-width="1.5"/>
+<polygon points="475,433 485,433 480,440" fill="#999"/>
+<line x1="732" y1="404" x2="732" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="884" y1="404" x2="884" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="732" y1="420" x2="884" y2="420" stroke="#999" stroke-width="1.5"/>
+<line x1="808" y1="420" x2="808" y2="433" stroke="#999" stroke-width="1.5"/>
+<polygon points="803,433 813,433 808,440" fill="#999"/>
+<rect x="0" y="440" width="304" height="115" rx="5" fill="#fff0f2" stroke="#c0404e" stroke-width="1.5"/>
+<text x="12" y="462" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1" fill="#c0404e">ИТОГ</text>
+<text x="12" y="480" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Вы лежите в постели, избегаете работы и</text>
+<text x="12" y="497" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">принижаете себя. Глубже погружаетесь в</text>
+<text x="12" y="514" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">депрессию. На работе переводят на</text>
+<text x="12" y="531" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">испытательный срок.</text>
+<rect x="328" y="440" width="304" height="115" rx="5" fill="#fff5ec" stroke="#c07020" stroke-width="1.5"/>
+<text x="340" y="462" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1" fill="#c07020">ИТОГ</text>
+<text x="340" y="480" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Вас увольняют в тот же момент. Вы долго</text>
+<text x="340" y="497" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">кипите от злости. Ничему не научились и</text>
+<text x="340" y="514" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">испортили отношения с начальником.</text>
+<rect x="656" y="440" width="304" height="115" rx="5" fill="#f0fff5" stroke="#208050" stroke-width="1.5"/>
+<text x="668" y="462" font-family="IBM Plex Sans, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1" fill="#208050">ИТОГ</text>
+<text x="668" y="480" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">Проблема определена и решена. Вы испытываете</text>
+<text x="668" y="497" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">чувство собственного достоинства, настроение</text>
+<text x="668" y="514" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11.5" fill="#222">улучшается. Начальник доволен.</text>
+<text x="480" y="581" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-style="italic" fill="#555">Рис. 6.1. Три варианта реагирования на критику. В зависимости от отношения к ситуации вы почувствуете себя грустно,</text>
+<text x="480" y="597" text-anchor="middle" font-family="IBM Plex Sans, Arial, sans-serif" font-size="11" font-style="italic" fill="#555">гневно или радостно. Ваш настрой также будет влиять на поведение и исход ситуации.</text>
+</svg>

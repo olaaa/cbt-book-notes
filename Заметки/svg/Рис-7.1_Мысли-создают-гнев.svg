@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" font-family="IBM Plex Sans, Arial, sans-serif">
+<rect x="0" y="0" width="720" height="560" fill="#ffffff"/>
+
+<!-- ВНЕШНЕЕ СОБЫТИЕ -->
+<rect x="140" y="20" width="440" height="86" rx="6" fill="#f0f0f0" stroke="#999" stroke-width="1.5"/>
+<text x="360" y="44" text-anchor="middle" font-size="12" font-weight="700" letter-spacing="1" fill="#444">ВНЕШНЕЕ СОБЫТИЕ</text>
+<text x="360" y="62" text-anchor="middle" font-size="11" font-style="italic" fill="#888">(не подвластно вашему контролю)</text>
+<text x="360" y="90" text-anchor="middle" font-size="14" font-weight="600" fill="#222">Действия других людей</text>
+
+<!-- стрелка вниз -->
+<line x1="360" y1="106" x2="360" y2="125" stroke="#999" stroke-width="1.5"/>
+<polygon points="355,125 365,125 360,132" fill="#999"/>
+
+<!-- контейнер: внутренние события -->
+<text x="360" y="150" text-anchor="middle" font-size="11" font-style="italic" letter-spacing="0.5" fill="#888">ВНУТРЕННИЕ СОБЫТИЯ · подвластны вашему контролю</text>
+<rect x="100" y="160" width="520" height="326" rx="10" fill="#fafafa" stroke="#cccccc" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+<!-- МЫСЛИ -->
+<rect x="150" y="176" width="420" height="86" rx="5" fill="#fff5ec" stroke="#c07020" stroke-width="1.5"/>
+<text x="360" y="200" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#444">МЫСЛИ</text>
+<text x="360" y="224" text-anchor="middle" font-size="12.5" font-style="italic" fill="#222">«Это нечестно!» · «Вот подлец!»</text>
+<text x="360" y="244" text-anchor="middle" font-size="12.5" font-style="italic" fill="#222">«Я этого не потерплю»</text>
+
+<line x1="360" y1="262" x2="360" y2="281" stroke="#999" stroke-width="1.5"/>
+<polygon points="355,281 365,281 360,288" fill="#999"/>
+
+<!-- ЭМОЦИИ -->
+<rect x="150" y="292" width="420" height="66" rx="5" fill="#fff0f2" stroke="#c0404e" stroke-width="1.5"/>
+<text x="360" y="316" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#444">ЭМОЦИИ</text>
+<text x="360" y="340" text-anchor="middle" font-size="13" font-weight="600" fill="#222">Гнев · смятение · страх · вина</text>
+
+<line x1="360" y1="358" x2="360" y2="377" stroke="#999" stroke-width="1.5"/>
+<polygon points="355,377 365,377 360,384" fill="#999"/>
+
+<!-- ПОВЕДЕНИЕ -->
+<rect x="150" y="388" width="420" height="86" rx="5" fill="#eef4fb" stroke="#3a6ea5" stroke-width="1.5"/>
+<text x="360" y="412" text-anchor="middle" font-size="11" font-weight="700" letter-spacing="1" fill="#444">ПОВЕДЕНИЕ</text>
+<text x="360" y="436" text-anchor="middle" font-size="12.5" fill="#222">Агрессивный ответ или молчаливый уход,</text>
+<text x="360" y="456" text-anchor="middle" font-size="12.5" fill="#222">планы мести, чтобы сравнять счёт</text>
+
+<!-- подпись -->
+<text x="360" y="512" text-anchor="middle" font-size="12.5" font-weight="700" fill="#333">Рис. 7.1. Гнев вызывают не события, а мысли о них</text>
+<text x="360" y="532" text-anchor="middle" font-size="11.5" font-style="italic" fill="#666">Реакцию порождает значение, которое ты придаёшь ситуации, а не сама ситуация</text>
+</svg>

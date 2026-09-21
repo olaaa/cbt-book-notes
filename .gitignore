@@ -1,0 +1,15 @@
+# IntelliJ IDEA / JetBrains
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Junie (JetBrains AI)
+.junie/
+
+# OS
+.DS_Store
+Thumbs.db
+# Выходные сборки/артефакты (PDF, EPUB, HTML, картинки конвертации)
+Экспорт/
