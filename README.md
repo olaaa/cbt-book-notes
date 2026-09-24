@@ -26,7 +26,7 @@
 |------|----------|------|--------|
 | 1 | Новые правила | [Voss-Never-Split-the-Difference/Chapter-01_The-New-Rules.md](Voss-Never-Split-the-Difference/Chapter-01_The-New-Rules.md) | готово |
 | 2 | Станьте зеркалом | [Voss-Never-Split-the-Difference/Chapter-02_Be-a-Mirror.md](Voss-Never-Split-the-Difference/Chapter-02_Be-a-Mirror.md) | готово |
-| 3 | Не чувствуйте чужую боль, навесьте на нее «ярлык» | [Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md](Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md) | готово |
+| 3 | Не чувствуйте чужую боль — назовите её | [Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md](Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md) | готово |
 | 4 | Остерегайтесь ответа «Да» и добивайтесь ответа «Все правильно!» | [Voss-Never-Split-the-Difference/Chapter-04_Aim-for-Thats-Right.md](Voss-Never-Split-the-Difference/Chapter-04_Aim-for-Thats-Right.md) | готово |
 | 5 | «Нет» — тоже ответ | [Voss-Never-Split-the-Difference/Chapter-05_No-Is-Also-an-Answer.md](Voss-Never-Split-the-Difference/Chapter-05_No-Is-Also-an-Answer.md) | готово |
 | 6 | Подстраивайте реальность под себя | [Voss-Never-Split-the-Difference/Chapter-06_Bend-Reality-Your-Way.md](Voss-Never-Split-the-Difference/Chapter-06_Bend-Reality-Your-Way.md) | готово |
