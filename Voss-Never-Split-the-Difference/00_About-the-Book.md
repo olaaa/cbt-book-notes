@@ -39,6 +39,7 @@
 ## Выжимки
 
 - [Собеседование и зарплата](Digests/Job-Interview-and-Salary.md)
+- [Восс на собеседовании: что работает, что нет](Digests/Interview-Adaptation.md)
 
 ## Противоядия
 

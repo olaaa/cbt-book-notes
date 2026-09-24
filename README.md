@@ -35,7 +35,7 @@
 | 9 | Торг уместен | [Voss-Never-Split-the-Difference/Chapter-09_Bargaining-Is-Appropriate.md](Voss-Never-Split-the-Difference/Chapter-09_Bargaining-Is-Appropriate.md) | готово |
 | 10 | Найдите «черных лебедей» (+ «Переговоры на одном листе») | [Voss-Never-Split-the-Difference/Chapter-10_Find-the-Black-Swans.md](Voss-Never-Split-the-Difference/Chapter-10_Find-the-Black-Swans.md) | готово |
 
-Выжимка: [Восс о собеседовании и зарплате](Voss-Never-Split-the-Difference/Digests/Job-Interview-and-Salary.md).
+Выжимки: [Восс о собеседовании и зарплате](Voss-Never-Split-the-Difference/Digests/Job-Interview-and-Salary.md), [Восс на собеседовании: что работает, что нет](Voss-Never-Split-the-Difference/Digests/Interview-Adaptation.md).
 
 Противоядия — что делать, когда приёмы применяют ко мне: по одному файлу на главу в [Противоядия/](Voss-Never-Split-the-Difference/Antidotes), список — в [00_About-the-Book.md](Voss-Never-Split-the-Difference/00_About-the-Book.md).
 
