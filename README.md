@@ -1,6 +1,6 @@
 # Конспекты книг по КПТ и смежным темам
 
-Личные конспекты-выжимки по главам книг: Дэвид Бёрнс, Кларк и Бек, Маккей, Бек и др., Крис Восс. Один файл на главу, подглавы — разделами `##` внутри файла. Задания читателю в конспектах сохранены и помечены словом «Задание».
+Личные конспекты-выжимки по главам книг: Дэвид Бёрнс, Кларк и Бек, Маккей, Бек и др. Один файл на главу, подглавы — разделами `##` внутри файла. Задания читателю в конспектах сохранены и помечены словом «Задание».
 
 ## Дэвид Бёрнс — «Терапия настроения» (Feeling Good)
 
@@ -20,24 +20,7 @@
 
 ## Крис Восс — «Никаких компромиссов»
 
-Конспекты по главам книги о переговорах. О книге и карта глав — [00_About-the-Book.md](Voss-Never-Split-the-Difference/00_About-the-Book.md).
-
-| Глава | Название | Файл | Статус |
-|------|----------|------|--------|
-| 1 | Новые правила | [Voss-Never-Split-the-Difference/Chapter-01_The-New-Rules.md](Voss-Never-Split-the-Difference/Chapter-01_The-New-Rules.md) | готово |
-| 2 | Станьте зеркалом | [Voss-Never-Split-the-Difference/Chapter-02_Be-a-Mirror.md](Voss-Never-Split-the-Difference/Chapter-02_Be-a-Mirror.md) | готово |
-| 3 | Не чувствуйте чужую боль — назовите её | [Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md](Voss-Never-Split-the-Difference/Chapter-03_Label-the-Pain.md) | готово |
-| 4 | Остерегайтесь ответа «Да» и добивайтесь ответа «Всё правильно!» | [Voss-Never-Split-the-Difference/Chapter-04_Aim-for-Thats-Right.md](Voss-Never-Split-the-Difference/Chapter-04_Aim-for-Thats-Right.md) | готово |
-| 5 | «Нет» — тоже ответ | [Voss-Never-Split-the-Difference/Chapter-05_No-Is-Also-an-Answer.md](Voss-Never-Split-the-Difference/Chapter-05_No-Is-Also-an-Answer.md) | готово |
-| 6 | Подстраивайте реальность под себя | [Voss-Never-Split-the-Difference/Chapter-06_Bend-Reality-Your-Way.md](Voss-Never-Split-the-Difference/Chapter-06_Bend-Reality-Your-Way.md) | готово |
-| 7 | Создайте иллюзию контроля | [Voss-Never-Split-the-Difference/Chapter-07_Create-the-Illusion-of-Control.md](Voss-Never-Split-the-Difference/Chapter-07_Create-the-Illusion-of-Control.md) | готово |
-| 8 | Убедитесь, что задача выполнена | [Voss-Never-Split-the-Difference/Chapter-08_Make-Sure-the-Job-Gets-Done.md](Voss-Never-Split-the-Difference/Chapter-08_Make-Sure-the-Job-Gets-Done.md) | готово |
-| 9 | Торг уместен | [Voss-Never-Split-the-Difference/Chapter-09_Bargaining-Is-Appropriate.md](Voss-Never-Split-the-Difference/Chapter-09_Bargaining-Is-Appropriate.md) | готово |
-| 10 | Найдите «чёрных лебедей» (+ «Переговоры на одном листе») | [Voss-Never-Split-the-Difference/Chapter-10_Find-the-Black-Swans.md](Voss-Never-Split-the-Difference/Chapter-10_Find-the-Black-Swans.md) | готово |
-
-Выжимки: [Восс о собеседовании и зарплате](Voss-Never-Split-the-Difference/Digests/Job-Interview-and-Salary.md), [Восс на собеседовании: что работает, что нет](Voss-Never-Split-the-Difference/Digests/Interview-Adaptation.md).
-
-Противоядия — что делать, когда приёмы применяют ко мне: по одному файлу на главу в [Противоядия/](Voss-Never-Split-the-Difference/Antidotes), список — в [00_About-the-Book.md](Voss-Never-Split-the-Difference/00_About-the-Book.md).
+Конспекты по главам, выжимки и противоядия перенесены в отдельный репозиторий [voss-never-split-the-difference](https://github.com/olaaa/voss-never-split-the-difference). Сопоставление с Бёрнсом осталось здесь, в разделе «Сопоставления».
 
 ## Кларк и Бек — «Тревога и беспокойство: КПТ-подход»
 
